@@ -1,0 +1,12 @@
+p{color:red;
+    text-decoration-line:underline;
+    background-color:pink;
+    opacity:0,1;
+    width:400px;
+border:2px solid green;
+outline-style:dotted;
+outline-color:yellow;
+padding:30px 60px;
+margin:80px;
+
+}
